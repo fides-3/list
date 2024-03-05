@@ -7,6 +7,6 @@ my_list.extend([50,60,70])
 print("listafterextend:",my_list)
 my_list.pop()
 print("afterremove:",my_list)
-index_of_30=my_list.index(30)
+index_of_30=my_list.index(30(mylist))
 print(index_of_30)
 
